@@ -1,0 +1,29 @@
+{
+  "canal": "Versions de Noah",
+  "produit": "Noah",
+  "employe": "noah",
+  "editeur": "Devlogy",
+  "derniere": "2.0.0",
+  "maj": "2026-10-30",
+  "versions": [
+    {
+      "version": "2.0.0",
+      "date": "2026-10-30",
+      "titre": "Noah passe sur Claude",
+      "chapeau": "Coach Noah quitte ChatGPT : ses formations deviennent une vraie app, avec un catalogue, des plans validés, des séances et des attestations.",
+      "resume": "Première version de Noah sur Claude, construite avec le kit des employés digitaux Devlogy. Le prompt du GPT est gardé au plus près ; une formation reste un pré-prompt.",
+      "equipe": "Lancez une formation du catalogue, ou la vôtre avec votre propre pré-prompt, seul ou en groupe. Noah prépare un plan sur mesure, vous le validez d'un clic, puis il anime chaque séance avec un quiz et un récap. À la fin : votre attestation.",
+      "admin": "Tenez le catalogue dans Admin → Formations (et importez celui de Devlogy), déposez les supports dans Admin → Supports, suivez les inscriptions et les séances dans le tableau de bord.",
+      "impact": {
+        "interface": true,
+        "prompt": true,
+        "base": true,
+        "taches": true
+      },
+      "importance": "majeure",
+      "promptAjouts": "",
+      "migration": "",
+      "capacites": true
+    }
+  ]
+}
