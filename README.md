@@ -4,4 +4,4 @@ Chaque employé digital conçu par [Devlogy](https://www.devlogy.com) (Abidjan) 
 
 | Employé | Dernière version | Mise à jour |
 |---|---|---|
-| [Noah](noah/) | 2.2.0 | 2026-10-30 |
+| [Noah](noah/) | 2.3.0 | 2026-10-30 |

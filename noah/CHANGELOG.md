@@ -2,6 +2,23 @@
 
 Noah est le coach formateur de l'équipe, conçu par Devlogy. Chaque version part de l'instance zéro (Devlogy) et rejoint les instances des clients quand leur admin l'applique.
 
+## 2.3.0 — Des sources discrètes
+
+*2026-10-30 · Mineure · touche : Interface*
+
+Les sources consultées se replient en une ligne discrète, « 5 sources consultées », toujours en bas de la réponse. Un clic les déplie en une liste de liens. Même présentation dans les articles des Actualités.
+
+### Pour l'équipe
+
+**Mes sources se font discrètes.** Elles tiennent sur une ligne en bas de ma réponse, « 5 sources consultées » : un clic la déplie pour voir les liens.
+
+- **Plus de confusion** avec les réponses à choisir au-dessus du champ de saisie.
+- **Même présentation dans les articles** des Actualités.
+
+### Pour l'admin
+
+Rien à faire : la mise à jour ne touche que l'affichage. Les exports Word et PDF gardent la liste complète des sources en fin de document.
+
 ## 2.2.0 — Le quiz de positionnement
 
 *2026-10-30 · Recommandée · touche : Interface, Prompt*

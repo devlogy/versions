@@ -3,9 +3,28 @@
   "produit": "Noah",
   "employe": "noah",
   "editeur": "Devlogy",
-  "derniere": "2.2.0",
+  "derniere": "2.3.0",
   "maj": "2026-10-30",
   "versions": [
+    {
+      "version": "2.3.0",
+      "date": "2026-10-30",
+      "titre": "Des sources discrètes",
+      "chapeau": "Les sources de Noah tiennent sur une ligne repliée en bas de la réponse : elles ne ressemblent plus à des réponses à cliquer.",
+      "resume": "Les sources consultées se replient en une ligne discrète, « 5 sources consultées », toujours en bas de la réponse. Un clic les déplie en une liste de liens. Même présentation dans les articles des Actualités.",
+      "equipe": "**Mes sources se font discrètes.** Elles tiennent sur une ligne en bas de ma réponse, « 5 sources consultées » : un clic la déplie pour voir les liens.\n\n- **Plus de confusion** avec les réponses à choisir au-dessus du champ de saisie.\n- **Même présentation dans les articles** des Actualités.",
+      "admin": "Rien à faire : la mise à jour ne touche que l'affichage. Les exports Word et PDF gardent la liste complète des sources en fin de document.",
+      "impact": {
+        "interface": true,
+        "prompt": false,
+        "base": false,
+        "taches": false
+      },
+      "importance": "mineure",
+      "promptAjouts": "",
+      "migration": "",
+      "capacites": false
+    },
     {
       "version": "2.2.0",
       "date": "2026-10-30",

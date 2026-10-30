@@ -7,4 +7,4 @@ Noah évolue sur son **instance zéro**, chez Devlogy. Chaque nouvelle version e
 - [`versions.json`](versions.json) : le fichier lu par les instances des clients ;
 - [`CHANGELOG.md`](CHANGELOG.md) : le même journal, à lire.
 
-Dernière version : **2.2.0** (2026-10-30).
+Dernière version : **2.3.0** (2026-10-30).
