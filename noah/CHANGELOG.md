@@ -10,8 +10,19 @@ Première version de Noah sur Claude, construite avec le kit des employés digit
 
 ### Pour l'équipe
 
-Lancez une formation du catalogue, ou la vôtre avec votre propre pré-prompt, seul ou en groupe. Noah prépare un plan sur mesure, vous le validez d'un clic, puis il anime chaque séance avec un quiz et un récap. À la fin : votre attestation.
+**Je suis Coach Noah 2.0, et je passe sur Claude.** Quand j'apprends quelque chose de nouveau, je te le dis ici, dans un article « Nouveau chez Noah ».
+
+Ce que tu as dans cette version :
+
+- **Des formations sur mesure.** Choisis une formation du catalogue, ou écris la tienne, comme avec le GPT.
+- **Seul ou en groupe.** Sur un même écran, je m'adresse à chacun par son prénom.
+- **Un plan que tu valides.** Je le prépare avec toi, tu le valides d'un clic, et je m'y tiens à chaque séance.
+- **Des séances courtes.** Explications, pratique, quiz et récap, puis la date de la séance suivante.
+- **Tes supports, relus.** PDF, Word, PowerPoint, tableurs : je les relis à chaque séance.
+- **Ton attestation** à la fin de la formation, et des rappels les jours de tes séances.
 
 ### Pour l'admin
 
-Tenez le catalogue dans Admin → Formations (et importez celui de Devlogy), déposez les supports dans Admin → Supports, suivez les inscriptions et les séances dans le tableau de bord.
+- **Admin → Formations** : le catalogue de l'équipe. On y importe les formations du Catalogue Devlogy ou on écrit les siennes ; chaque formation est un pré-prompt, avec des variables remplies au lancement ({{ORG}}, {{APPRENANT}}, {{DATE_DEBUT}}, {{GROUPE}}).
+- **Admin → Supports** : les documents que Noah relit pendant les formations, rattachés ou non à une formation.
+- **Tableau de bord** : inscriptions, séances faites et prévues, scores des quiz, par formation ; jamais le contenu des échanges.
