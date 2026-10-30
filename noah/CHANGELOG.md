@@ -2,6 +2,24 @@
 
 Noah est le coach formateur de l'équipe, conçu par Devlogy. Chaque version part de l'instance zéro (Devlogy) et rejoint les instances des clients quand leur admin l'applique.
 
+## 2.2.0 — Le quiz de positionnement
+
+*2026-10-30 · Recommandée · touche : Interface, Prompt*
+
+Le quiz de positionnement devient une étape de la méthode de Noah : cinq questions avant le plan, notées par l'app. Le niveau de départ reste en mémoire pendant toute la formation, et la progression apparaît sur l'attestation.
+
+### Pour l'équipe
+
+**Je mesure d'abord où tu en es.** Avant de te proposer le plan, je te fais passer un court quiz de positionnement : cinq questions, une à la fois.
+
+- **Ton plan est calibré sur le résultat** : on passe vite sur ce que tu sais déjà, on insiste sur le reste.
+- **Ton niveau de départ reste affiché** dans le volet de ta formation.
+- **Ton attestation montre ta progression**, du quiz de départ au dernier quiz.
+
+### Pour l'admin
+
+Le tableau de bord montre, par formation, le niveau moyen au départ et à la fin. Un pré-prompt peut exclure le quiz (« pas de quiz de positionnement ») ou le préciser (nombre de questions, questions pièges, moment).
+
 ## 2.1.0 — Une question à la fois
 
 *2026-10-30 · Recommandée · touche : Interface, Prompt*

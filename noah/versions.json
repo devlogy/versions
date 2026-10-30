@@ -3,9 +3,28 @@
   "produit": "Noah",
   "employe": "noah",
   "editeur": "Devlogy",
-  "derniere": "2.1.0",
+  "derniere": "2.2.0",
   "maj": "2026-10-30",
   "versions": [
+    {
+      "version": "2.2.0",
+      "date": "2026-10-30",
+      "titre": "Le quiz de positionnement",
+      "chapeau": "Avant de bâtir le plan, Noah mesure ton niveau de départ avec un court quiz, puis calibre la formation dessus.",
+      "resume": "Le quiz de positionnement devient une étape de la méthode de Noah : cinq questions avant le plan, notées par l'app. Le niveau de départ reste en mémoire pendant toute la formation, et la progression apparaît sur l'attestation.",
+      "equipe": "**Je mesure d'abord où tu en es.** Avant de te proposer le plan, je te fais passer un court quiz de positionnement : cinq questions, une à la fois.\n\n- **Ton plan est calibré sur le résultat** : on passe vite sur ce que tu sais déjà, on insiste sur le reste.\n- **Ton niveau de départ reste affiché** dans le volet de ta formation.\n- **Ton attestation montre ta progression**, du quiz de départ au dernier quiz.",
+      "admin": "Le tableau de bord montre, par formation, le niveau moyen au départ et à la fin. Un pré-prompt peut exclure le quiz (« pas de quiz de positionnement ») ou le préciser (nombre de questions, questions pièges, moment).",
+      "impact": {
+        "interface": true,
+        "prompt": true,
+        "base": false,
+        "taches": false
+      },
+      "importance": "recommandee",
+      "promptAjouts": "",
+      "migration": "",
+      "capacites": false
+    },
     {
       "version": "2.1.0",
       "date": "2026-10-30",
