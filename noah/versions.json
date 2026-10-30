@@ -3,9 +3,28 @@
   "produit": "Noah",
   "employe": "noah",
   "editeur": "Devlogy",
-  "derniere": "2.0.0",
+  "derniere": "2.1.0",
   "maj": "2026-10-30",
   "versions": [
+    {
+      "version": "2.1.0",
+      "date": "2026-10-30",
+      "titre": "Une question à la fois",
+      "chapeau": "Noah pose ses questions une par une, avec des réponses à cliquer, et ses quiz défilent question par question.",
+      "resume": "Noah suit son parcours : au plus une question par message, des réponses proposées au-dessus du champ de saisie, des quiz pas à pas, et plus de pistes de relance qui dispersent.",
+      "equipe": "**Je pose mes questions une par une.** Tu choisis ta réponse d'un clic, juste au-dessus du champ de saisie, ou tu écris la tienne.\n\n- **Les quiz défilent une question à la fois**, avec la correction après chaque réponse, puis ton score.\n- **Je reste sur notre parcours** : plus de pistes de relance en fin de message, on avance selon le plan validé.",
+      "admin": "Rien à faire : la mise à jour ne touche ni les formations, ni le catalogue, ni les données de l'équipe. Si l'annexe technique a été personnalisée (Admin → Configuration), la remettre à l'original pour profiter des nouvelles consignes.",
+      "impact": {
+        "interface": true,
+        "prompt": true,
+        "base": false,
+        "taches": false
+      },
+      "importance": "recommandee",
+      "promptAjouts": "",
+      "migration": "",
+      "capacites": false
+    },
     {
       "version": "2.0.0",
       "date": "2026-10-30",

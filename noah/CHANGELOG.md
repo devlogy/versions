@@ -2,6 +2,23 @@
 
 Noah est le coach formateur de l'équipe, conçu par Devlogy. Chaque version part de l'instance zéro (Devlogy) et rejoint les instances des clients quand leur admin l'applique.
 
+## 2.1.0 — Une question à la fois
+
+*2026-10-30 · Recommandée · touche : Interface, Prompt*
+
+Noah suit son parcours : au plus une question par message, des réponses proposées au-dessus du champ de saisie, des quiz pas à pas, et plus de pistes de relance qui dispersent.
+
+### Pour l'équipe
+
+**Je pose mes questions une par une.** Tu choisis ta réponse d'un clic, juste au-dessus du champ de saisie, ou tu écris la tienne.
+
+- **Les quiz défilent une question à la fois**, avec la correction après chaque réponse, puis ton score.
+- **Je reste sur notre parcours** : plus de pistes de relance en fin de message, on avance selon le plan validé.
+
+### Pour l'admin
+
+Rien à faire : la mise à jour ne touche ni les formations, ni le catalogue, ni les données de l'équipe. Si l'annexe technique a été personnalisée (Admin → Configuration), la remettre à l'original pour profiter des nouvelles consignes.
+
 ## 2.0.0 — Noah passe sur Claude
 
 *2026-10-30 · Majeure · touche : Interface, Prompt, Base de données, Tâches planifiées*
